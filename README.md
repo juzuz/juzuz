@@ -1,4 +1,4 @@
-### Hi there, I'm Chanyoung Lee - aka [Jason] 👋
+### Hi there, I'm Chanyoung Lee - aka Jason 👋
 
 ## I'm a Student Developer!
 
