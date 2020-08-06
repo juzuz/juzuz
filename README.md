@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First time into Mobile Development - React Native ](https://dev.to/juzuz/first-time-into-mobile-development-react-native-h7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
