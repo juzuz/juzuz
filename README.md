@@ -7,6 +7,7 @@
 - 👯 I’m always open to meet new people and learn more!
 - 🥅 2020 Goals: Create more projects
 - 🏆 Fun fact: I love playing tennis and enjoy brewing coffee☕
+- 🚩 Languages: ⭐🇺🇸 - English 🇰🇷 - Korean 🇨🇳 - Chinese 🇯🇵 - Japanese
 
 ### Connect with me:
 
