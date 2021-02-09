@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a mobile app!
 - 👓 I’m also learning as much as I can out of the school curriculum 🤣
 - 👯 I’m always open to meet new people and learn more!
-- 🥅 2020 Goals: Create more projects
-- 🏆 Fun fact: I love playing tennis and enjoy brewing coffee☕
+- 🥅 2021 Goals: Create more projects
+- 🏆 Fun fact: I love playing tennis, boudlering and enjoy brewing coffee☕
 - 🚩 Languages: ⭐🇺🇸 - English 🇰🇷 - Korean 🇨🇳 - Chinese 🇯🇵 - Japanese
 
 ### Connect with me:
@@ -32,8 +32,6 @@
 
 <br />
 <br />
-
-<img align="left" alt="juzuz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juzuz&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/juzu1052/
 [linkedin]: https://www.linkedin.com/in/chanyoung-lee-abb93a1a0/
