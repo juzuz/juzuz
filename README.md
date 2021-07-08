@@ -2,8 +2,8 @@
 
 ## I'm a Student Developer!
 
-- 🔭 I’m currently working on a mobile app!
-- 👓 I’m also learning as much as I can out of the school curriculum 🤣
+- 🔭 I’m currently learning about web and mobile apps development and machine learning!
+- 👓 I’m also creating projects as much as I can out of the school curriculum 🤣
 - 👯 I’m always open to meet new people and learn more!
 - 🥅 2021 Goals: Create more projects
 - 🏆 Fun fact: I love playing tennis, boudlering and enjoy brewing coffee☕
